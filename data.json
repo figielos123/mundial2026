@@ -18,11 +18,11 @@
       "e1": 10,
       "e2": 17,
       "e3": 16,
-      "e4": 0,
+      "e4": 1,
       "ep": 0,
       "eb": 24,
       "ebImported": 24,
-      "total": 67
+      "total": 68
     },
     {
       "id": "mqut0823zo3n",
@@ -102,11 +102,11 @@
       "e1": 9,
       "e2": 16,
       "e3": 16,
-      "e4": 0,
+      "e4": 1,
       "ep": 0,
       "eb": 24,
       "ebImported": 24,
-      "total": 65
+      "total": 66
     },
     {
       "id": "mqut0823v6cr",
@@ -186,11 +186,11 @@
       "e1": 15,
       "e2": 15,
       "e3": 15,
-      "e4": 0,
+      "e4": 1,
       "ep": 0,
       "eb": 22,
       "ebImported": 22,
-      "total": 67
+      "total": 68
     },
     {
       "id": "mqut0823yuep",
@@ -246,11 +246,11 @@
       "e1": 7,
       "e2": 16,
       "e3": 12,
-      "e4": 0,
+      "e4": 1,
       "ep": 0,
       "eb": 24,
       "ebImported": 24,
-      "total": 59
+      "total": 60
     },
     {
       "id": "mqut0823voha",
@@ -960,7 +960,7 @@
       "teamA": "Turcja",
       "teamB": "USA",
       "etap": "etap4",
-      "result": null
+      "result": "3:2"
     },
     {
       "id": "mqut082b5h9z",
@@ -6013,5 +6013,5 @@
       }
     }
   },
-  "lastUpdated": "26.06.2026, 12:44:37"
+  "lastUpdated": "26.06.2026, 13:13:27"
 }
