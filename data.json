@@ -928,7 +928,7 @@
       "teamA": "Ekwador",
       "teamB": "Niemcy",
       "etap": "etap4",
-      "result": null
+      "result": "2:1"
     },
     {
       "id": "mqut082av7hd",
@@ -6013,5 +6013,5 @@
       }
     }
   },
-  "lastUpdated": "26.06.2026, 13:14:03"
+  "lastUpdated": "26.06.2026, 13:14:15"
 }
