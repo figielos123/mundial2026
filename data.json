@@ -54,11 +54,11 @@
       "e1": 13,
       "e2": 12,
       "e3": 14,
-      "e4": 5,
+      "e4": 6,
       "ep": 0,
       "eb": 24,
       "ebImported": 22,
-      "total": 68
+      "total": 69
     },
     {
       "id": "mqut08230n4u",
@@ -90,11 +90,11 @@
       "e1": 11,
       "e2": 13,
       "e3": 14,
-      "e4": 3,
+      "e4": 6,
       "ep": 0,
       "eb": 30,
       "ebImported": 20,
-      "total": 71
+      "total": 74
     },
     {
       "id": "mqut08235ul8",
@@ -126,11 +126,11 @@
       "e1": 10,
       "e2": 16,
       "e3": 18,
-      "e4": 4,
+      "e4": 5,
       "ep": 0,
       "eb": 31,
       "ebImported": 22,
-      "total": 79
+      "total": 80
     },
     {
       "id": "mqut0823zzyz",
@@ -150,11 +150,11 @@
       "e1": 20,
       "e2": 13,
       "e3": 17,
-      "e4": 6,
+      "e4": 7,
       "ep": 0,
       "eb": 27,
       "ebImported": 20,
-      "total": 83
+      "total": 84
     },
     {
       "id": "mqut0823z3is",
@@ -174,11 +174,11 @@
       "e1": 8,
       "e2": 14,
       "e3": 12,
-      "e4": 7,
+      "e4": 8,
       "ep": 0,
       "eb": 35,
       "ebImported": 22,
-      "total": 76
+      "total": 77
     },
     {
       "id": "mqut0823jjm4",
@@ -186,11 +186,11 @@
       "e1": 15,
       "e2": 15,
       "e3": 15,
-      "e4": 9,
+      "e4": 10,
       "ep": 0,
       "eb": 29,
       "ebImported": 22,
-      "total": 83
+      "total": 84
     },
     {
       "id": "mqut0823yuep",
@@ -198,11 +198,11 @@
       "e1": 14,
       "e2": 19,
       "e3": 18,
-      "e4": 7,
+      "e4": 8,
       "ep": 0,
       "eb": 37,
       "ebImported": 24,
-      "total": 95
+      "total": 96
     },
     {
       "id": "mqut0823nhs5",
@@ -234,11 +234,11 @@
       "e1": 9,
       "e2": 16,
       "e3": 16,
-      "e4": 8,
+      "e4": 9,
       "ep": 0,
       "eb": 29,
       "ebImported": 24,
-      "total": 78
+      "total": 79
     },
     {
       "id": "mqut0823i47g",
@@ -258,11 +258,11 @@
       "e1": 14,
       "e2": 13,
       "e3": 18,
-      "e4": 6,
+      "e4": 7,
       "ep": 0,
       "eb": 29,
       "ebImported": 22,
-      "total": 80
+      "total": 81
     },
     {
       "id": "mqut0823rfbn",
@@ -270,11 +270,11 @@
       "e1": 8,
       "e2": 17,
       "e3": 14,
-      "e4": 4,
+      "e4": 5,
       "ep": 0,
       "eb": 37,
       "ebImported": 24,
-      "total": 80
+      "total": 81
     },
     {
       "id": "mqut0823mnyz",
@@ -306,11 +306,11 @@
       "e1": 12,
       "e2": 12,
       "e3": 16,
-      "e4": 7,
+      "e4": 8,
       "ep": 0,
       "eb": 39,
       "ebImported": 24,
-      "total": 86
+      "total": 87
     },
     {
       "id": "mqut0823e5f6",
@@ -402,11 +402,11 @@
       "e1": 14,
       "e2": 15,
       "e3": 11,
-      "e4": 6,
+      "e4": 7,
       "ep": 0,
       "eb": 39,
       "ebImported": 24,
-      "total": 85
+      "total": 86
     },
     {
       "id": "mqut0824st1x",
@@ -984,7 +984,7 @@
       "teamA": "Rep. Ziel. Przylądka",
       "teamB": "Arabia Saudyjska",
       "etap": "etap4",
-      "result": null
+      "result": "0:0"
     },
     {
       "id": "mqut082bh36r",
@@ -6013,5 +6013,5 @@
       }
     }
   },
-  "lastUpdated": "26.06.2026, 23:42:57"
+  "lastUpdated": "27.06.2026, 07:57:11"
 }
