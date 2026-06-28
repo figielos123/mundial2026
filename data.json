@@ -248,9 +248,9 @@
       "e3": 12,
       "e4": 9,
       "ep": 0,
-      "eb": 41,
+      "eb": 44,
       "ebImported": 24,
-      "total": 85
+      "total": 88
     },
     {
       "id": "mqut0823voha",
@@ -4403,7 +4403,7 @@
       "third_5": "Senegal",
       "third_6": "Algieria",
       "third_7": "Ghana",
-      "third_8": "DR Konga",
+      "third_8": "DR Kongo",
       "semi_1": "",
       "semi_2": "",
       "semi_3": "",
@@ -6013,5 +6013,5 @@
       }
     }
   },
-  "lastUpdated": "28.06.2026, 06:45:43"
+  "lastUpdated": "28.06.2026, 07:06:51"
 }
