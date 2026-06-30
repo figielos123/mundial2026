@@ -1080,7 +1080,7 @@
       "teamA": "Niemcy",
       "teamB": "Paragwaj",
       "etap": "puchar",
-      "result": null
+      "result": "1:1"
     },
     {
       "id": "m76",
@@ -6663,5 +6663,5 @@
       }
     }
   },
-  "lastUpdated": "29.06.2026, 20:57:49"
+  "lastUpdated": "30.06.2026, 20:17:00"
 }
