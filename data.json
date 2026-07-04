@@ -1176,7 +1176,7 @@
       "teamA": "Argentyna",
       "teamB": "Rep. Ziel. Przylądka",
       "etap": "puchar",
-      "result": null
+      "result": "1:1"
     },
     {
       "id": "m88",
@@ -6663,5 +6663,5 @@
       }
     }
   },
-  "lastUpdated": "3.07.2026, 22:26:56"
+  "lastUpdated": "4.07.2026, 07:51:04"
 }
