@@ -9,7 +9,7 @@
       "e4": 11,
       "ep": 21,
       "eb": 65,
-      "ebImported": 50,
+      "ebImported": 60,
       "total": 136
     },
     {
@@ -21,7 +21,7 @@
       "e4": 15,
       "ep": 20,
       "eb": 67,
-      "ebImported": 57,
+      "ebImported": 67,
       "total": 145
     },
     {
@@ -33,7 +33,7 @@
       "e4": 9,
       "ep": 23,
       "eb": 63,
-      "ebImported": 48,
+      "ebImported": 63,
       "total": 139
     },
     {
@@ -45,7 +45,7 @@
       "e4": 16,
       "ep": 35,
       "eb": 63,
-      "ebImported": 43,
+      "ebImported": 63,
       "total": 159
     },
     {
@@ -57,7 +57,7 @@
       "e4": 11,
       "ep": 26,
       "eb": 57,
-      "ebImported": 42,
+      "ebImported": 57,
       "total": 133
     },
     {
@@ -69,7 +69,7 @@
       "e4": 11,
       "ep": 27,
       "eb": 62,
-      "ebImported": 52,
+      "ebImported": 62,
       "total": 146
     },
     {
@@ -81,7 +81,7 @@
       "e4": 12,
       "ep": 17,
       "eb": 65,
-      "ebImported": 50,
+      "ebImported": 65,
       "total": 137
     },
     {
@@ -93,7 +93,7 @@
       "e4": 13,
       "ep": 18,
       "eb": 58,
-      "ebImported": 43,
+      "ebImported": 58,
       "total": 127
     },
     {
@@ -105,7 +105,7 @@
       "e4": 18,
       "ep": 21,
       "eb": 62,
-      "ebImported": 47,
+      "ebImported": 62,
       "total": 142
     },
     {
@@ -117,7 +117,7 @@
       "e4": 15,
       "ep": 34,
       "eb": 65,
-      "ebImported": 50,
+      "ebImported": 65,
       "total": 150
     },
     {
@@ -129,7 +129,7 @@
       "e4": 11,
       "ep": 29,
       "eb": 61,
-      "ebImported": 46,
+      "ebImported": 61,
       "total": 145
     },
     {
@@ -141,7 +141,7 @@
       "e4": 14,
       "ep": 24,
       "eb": 69,
-      "ebImported": 49,
+      "ebImported": 69,
       "total": 152
     },
     {
@@ -153,7 +153,7 @@
       "e4": 17,
       "ep": 32,
       "eb": 65,
-      "ebImported": 45,
+      "ebImported": 65,
       "total": 164
     },
     {
@@ -165,7 +165,7 @@
       "e4": 13,
       "ep": 26,
       "eb": 57,
-      "ebImported": 47,
+      "ebImported": 57,
       "total": 149
     },
     {
@@ -177,7 +177,7 @@
       "e4": 16,
       "ep": 30,
       "eb": 63,
-      "ebImported": 48,
+      "ebImported": 63,
       "total": 143
     },
     {
@@ -189,7 +189,7 @@
       "e4": 16,
       "ep": 33,
       "eb": 56,
-      "ebImported": 41,
+      "ebImported": 56,
       "total": 150
     },
     {
@@ -201,7 +201,7 @@
       "e4": 14,
       "ep": 22,
       "eb": 65,
-      "ebImported": 55,
+      "ebImported": 65,
       "total": 152
     },
     {
@@ -213,7 +213,7 @@
       "e4": 15,
       "ep": 18,
       "eb": 68,
-      "ebImported": 58,
+      "ebImported": 68,
       "total": 151
     },
     {
@@ -225,7 +225,7 @@
       "e4": 12,
       "ep": 20,
       "eb": 65,
-      "ebImported": 50,
+      "ebImported": 65,
       "total": 134
     },
     {
@@ -237,7 +237,7 @@
       "e4": 17,
       "ep": 26,
       "eb": 67,
-      "ebImported": 47,
+      "ebImported": 67,
       "total": 151
     },
     {
@@ -248,9 +248,9 @@
       "e3": 12,
       "e4": 9,
       "ep": 23,
-      "eb": 56,
-      "ebImported": 44,
-      "total": 123
+      "eb": 59,
+      "ebImported": 59,
+      "total": 126
     },
     {
       "id": "p22",
@@ -261,7 +261,7 @@
       "e4": 13,
       "ep": 27,
       "eb": 49,
-      "ebImported": 39,
+      "ebImported": 49,
       "total": 134
     },
     {
@@ -273,7 +273,7 @@
       "e4": 12,
       "ep": 28,
       "eb": 60,
-      "ebImported": 50,
+      "ebImported": 60,
       "total": 139
     },
     {
@@ -285,7 +285,7 @@
       "e4": 11,
       "ep": 29,
       "eb": 60,
-      "ebImported": 50,
+      "ebImported": 60,
       "total": 149
     },
     {
@@ -297,7 +297,7 @@
       "e4": 11,
       "ep": 24,
       "eb": 65,
-      "ebImported": 45,
+      "ebImported": 65,
       "total": 142
     },
     {
@@ -309,7 +309,7 @@
       "e4": 16,
       "ep": 27,
       "eb": 75,
-      "ebImported": 60,
+      "ebImported": 75,
       "total": 158
     },
     {
@@ -321,7 +321,7 @@
       "e4": 13,
       "ep": 25,
       "eb": 65,
-      "ebImported": 55,
+      "ebImported": 65,
       "total": 151
     },
     {
@@ -333,7 +333,7 @@
       "e4": 8,
       "ep": 14,
       "eb": 60,
-      "ebImported": 55,
+      "ebImported": 60,
       "total": 115
     },
     {
@@ -345,7 +345,7 @@
       "e4": 14,
       "ep": 28,
       "eb": 55,
-      "ebImported": 45,
+      "ebImported": 55,
       "total": 141
     },
     {
@@ -357,7 +357,7 @@
       "e4": 15,
       "ep": 27,
       "eb": 75,
-      "ebImported": 60,
+      "ebImported": 75,
       "total": 157
     },
     {
@@ -369,7 +369,7 @@
       "e4": 15,
       "ep": 25,
       "eb": 72,
-      "ebImported": 57,
+      "ebImported": 72,
       "total": 158
     },
     {
@@ -381,7 +381,7 @@
       "e4": 16,
       "ep": 31,
       "eb": 67,
-      "ebImported": 47,
+      "ebImported": 67,
       "total": 154
     },
     {
@@ -393,7 +393,7 @@
       "e4": 11,
       "ep": 28,
       "eb": 67,
-      "ebImported": 57,
+      "ebImported": 67,
       "total": 156
     },
     {
@@ -405,7 +405,7 @@
       "e4": 12,
       "ep": 17,
       "eb": 75,
-      "ebImported": 55,
+      "ebImported": 75,
       "total": 144
     },
     {
@@ -417,7 +417,7 @@
       "e4": 16,
       "ep": 23,
       "eb": 48,
-      "ebImported": 33,
+      "ebImported": 48,
       "total": 126
     },
     {
@@ -429,7 +429,7 @@
       "e4": 18,
       "ep": 24,
       "eb": 62,
-      "ebImported": 47,
+      "ebImported": 62,
       "total": 149
     },
     {
@@ -441,7 +441,7 @@
       "e4": 9,
       "ep": 35,
       "eb": 67,
-      "ebImported": 52,
+      "ebImported": 67,
       "total": 153
     },
     {
@@ -451,10 +451,10 @@
       "e2": 17,
       "e3": 14,
       "e4": 11,
-      "ep": 20,
+      "ep": 24,
       "eb": 60,
-      "ebImported": 45,
-      "total": 129
+      "ebImported": 60,
+      "total": 133
     },
     {
       "id": "p39",
@@ -465,7 +465,7 @@
       "e4": 11,
       "ep": 27,
       "eb": 65,
-      "ebImported": 50,
+      "ebImported": 65,
       "total": 144
     },
     {
@@ -477,7 +477,7 @@
       "e4": 9,
       "ep": 18,
       "eb": 62,
-      "ebImported": 42,
+      "ebImported": 62,
       "total": 134
     }
   ],
@@ -1285,16 +1285,16 @@
     {
       "id": "m101",
       "excelNo": 101,
-      "teamA": "Mecz 101",
-      "teamB": "do ustalenia",
+      "teamA": "Francja",
+      "teamB": "Hiszpania",
       "etap": "puchar",
       "result": null
     },
     {
       "id": "m102",
       "excelNo": 102,
-      "teamA": "Mecz 102",
-      "teamB": "do ustalenia",
+      "teamA": "Anglia",
+      "teamB": "Argentyna",
       "etap": "puchar",
       "result": null
     },
@@ -5424,7 +5424,8 @@
       "p36": "2:1",
       "p37": "2:1",
       "p39": "2:1",
-      "p40": "1:1"
+      "p40": "1:1",
+      "p38": "3:1"
     },
     "m99": {
       "p1": "1:2",
@@ -5465,7 +5466,8 @@
       "p36": "2:1",
       "p37": "1:1",
       "p39": "1:1",
-      "p40": "1:1"
+      "p40": "1:1",
+      "p38": "1:1"
     },
     "m100": {
       "p1": "2:1",
@@ -5506,7 +5508,8 @@
       "p36": "2:1",
       "p37": "2:0",
       "p39": "1:0",
-      "p40": "3:1"
+      "p40": "3:1",
+      "p38": "1:0"
     },
     "m101": {},
     "m102": {},
@@ -5588,10 +5591,10 @@
         "third_6": "Paragwaj",
         "third_7": "Norwegia",
         "third_8": "Ghana",
-        "semi_1": "Brazylia",
+        "semi_1": "Francja",
         "semi_2": "Argentyna",
         "semi_3": "Hiszpania",
-        "semi_4": "Francja",
+        "semi_4": "Brazylia",
         "winner": "Hiszpania",
         "topscorer": "Yamal"
       },
@@ -7156,5 +7159,5 @@
       }
     }
   },
-  "lastUpdated": "12.07.2026, 08:57:15"
+  "lastUpdated": "12.07.2026, 21:52:47"
 }
